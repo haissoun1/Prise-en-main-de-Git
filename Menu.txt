@@ -4,6 +4,10 @@
 	Salade Marocaine 
 	Filet de dinde 
 	Gâteau citronnelle
+<<<<<<< HEAD
         pizza 
         tacos 
+=======
+        Pizza 
+>>>>>>> develop
 </html>
